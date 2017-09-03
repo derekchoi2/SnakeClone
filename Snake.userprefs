@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{FC076ACC-92BE-4B76-BC58-A01C1DB7208D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SnakeMonoDevelop/Game1.cs">
+    <Files>
+      <File FileName="SnakeMonoDevelop/Player.cs" Line="30" Column="28" />
+      <File FileName="SnakeMonoDevelop/GameBoard.cs" Line="4" Column="1" />
+      <File FileName="SnakeMonoDevelop/enums.cs" Line="1" Column="1" />
+      <File FileName="SnakeMonoDevelop/Inputs.cs" Line="7" Column="31" />
+      <File FileName="SnakeMonoDevelop/Food.cs" Line="4" Column="1" />
+      <File FileName="SnakeMonoDevelop/Game1.cs" Line="52" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SnakeMonoDevelop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
